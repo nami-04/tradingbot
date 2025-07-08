@@ -1,0 +1,2 @@
+2025-07-08 15:41:13,806 - ERROR - Market Order Error: APIError(code=-2019): Margin is insufficient.
+2025-07-08 15:41:36,025 - ERROR - Limit Order Error: APIError(code=-4013): Price less than min price.
